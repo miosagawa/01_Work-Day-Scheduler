@@ -1,6 +1,9 @@
 Folder update content:
-Update date：June 25, 2020
-Update content：
+Update date：July 25, 2020
+
+URL:https://miosagawa.github.io/01_Work-Day-Scheduler/Assets/index.html
+Github:https://github.com/miosagawa/01_Work-Day-Scheduler
+
 
 1.Schedule creation（Created according to the following conditions）
 
